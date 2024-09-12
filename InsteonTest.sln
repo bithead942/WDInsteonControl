@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WDInsteonControl", "WDInsteonControl.vbproj", "{734E7EB8-905D-4341-9312-26BD76D8E796}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.1.188:8080/tfs/virtualhome
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WDInsteonControl.vbproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734E7EB8-905D-4341-9312-26BD76D8E796}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{734E7EB8-905D-4341-9312-26BD76D8E796}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{734E7EB8-905D-4341-9312-26BD76D8E796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734E7EB8-905D-4341-9312-26BD76D8E796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
